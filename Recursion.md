@@ -12,3 +12,6 @@ let factorialize = n => {
 }
 ```
 
+Opportunities to use recursion:
+- look for cases where task is repeated multiple times because solving it will lead to multiple subtasks of the same kind
+- in other words, we break a big task into smaller, equal tasks
